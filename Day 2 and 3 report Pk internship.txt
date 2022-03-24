@@ -1,0 +1,25 @@
+DAY-2 and 3 Report
+
+Hello Sir ;
+     For the last two days what are the thngs i have studied for this internship is mentioned below.
+
+Studied About:
+
+*Selenium Intro
+*How it works
+*Lists od Seleini
+*where it was developed and by whom
+*Studied Birth of selenium Remote Control
+*Selenium Grid
+*Birth of WebDriver
+*Birth of Selenium 2
+*Reson for Selenium Name
+
+
+I have mentioned the matreials which i have studied for 2 days(22 nd and 23rd march) i have mentioned the 2 days report in one document.
+If you find out any issue or any correction in this means please let me know team.
+
+
+Regards;
+Yeswanth;
+B.sc CS 'D'
